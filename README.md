@@ -7,7 +7,7 @@
   
 - 👨‍💻 All of my projects are available at [https://github.com/Qaidsaher](https://github.com/Qaidsaher)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/saher-qaid-470735261/](https://www.linkedin.com/in/saher-qaid-470735261/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/saherqaid/](https://www.linkedin.com/in/saherqaid/)
 
 - 💬 Ask me about **anything**
 
