@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm SaherQaid</h1>
-<h3 align="center">A passionate full stack developer from Yemen</h3>
-
+<p align="center">
+  <strong>🚀 Full-Stack Developer | 💡 AI Enthusiast | 🌍 Lifelong Learner</strong><br>
+  Crafting Smart, Scalable Web and AI Solutions
+</p>
 - 🔭 I’m currently working on [saherlint](https://github.com/Qaidsaher/laratalk)
 
 - 🌱 I’m currently learning **nodejs**
@@ -42,3 +44,37 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/saherqaid2y"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="@saherqaid" /></a>
 </p><br><br>
+
+
+
+
+### 📌 Status
+
+🟢 **Currently Available for Opportunities**  
+_Actively open to freelance or full-time roles in full-stack or AI development._
+
+---
+
+### 📂 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🎵 Yemeni Music Classifier | AI model for classifying Yemeni music by style and region | Python, Librosa, ML |
+| 🩸 Blood Donation App | Flutter + Laravel app for blood donors and booking | Flutter, Laravel, Firebase |
+| 🌍 Travel Risk Tracker | Web app for tourists showing location-based risks | Laravel, Tailwind, APIs |
+| 🔐 **Authentication System**           | Secure, multi-factor authentication system with OAuth support.                                  | Laravel, Passport, JWT                               |
+| 🫁 **Lung Cancer Detection in CT Images Using Deep Learning** | Developed a deep learning system for early lung cancer detection using CT scans.                   | Python, TensorFlow, Keras, FastAPI, Laravel, PHP (+5 more) |
+| 💡 **Support Innovative Project Platform**  | Built a collaborative platform for innovators to share and develop ideas.                         | Node.js, Express, React, Tailwind CSS, MongoDB, Mongoose (+6 more) |
+| 🌿 **Green Riyadh Initiative Platform**      | Comprehensive web app for managing environmental and urban sustainability initiatives in Riyadh.  | PHP, MySQL, JavaScript, HTML, CSS, Tailwind CSS (+1 more) |
+| 🏠 **Dalalik - Real Estate Platform & Application**          | End-to-end real estate solution addressing challenges in Yemen’s property market.                 | Laravel, Chart.js, Laravel Echo, Livewire, AI Integration, MySQL (+8 more) |
+| 🚌 **Masaree - Bus Management System**                  | Streamlines transportation logistics and administration for bus services.                         | PHP, MySQL, JavaScript, HTML, Tailwind CSS          |
+| 💻 **Digital Services Platform**                      | Web platform to streamline technical support and digital services for students and educators.    | PHP, MySQL, JavaScript, HTML, Tailwind CSS          |
+| 🧳 **TouristRiskAware**                                | Provides travelers with safety info and risk awareness based on location data.                    | PHP, Laravel, MySQL, HTML, CSS, Tailwind CSS (+5 more) |
+| 🩸 **Donate Lives for Blood Sharing**                  | Connects blood donors with recipients via a Laravel 11 powered application.                       | PHP, Laravel 11, MySQL/SQLite, JavaScript, HTML, CSS (+3 more) |
+| 🎬 **Movie Recommendation System ML**                   | Implements a movie recommender using MovieLens dataset with machine learning algorithms.          | Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn (RandomForestRegressor, SVR) |
+| 📺 **SH-Tube**                                        | Flutter-based cross-platform app integrating web browsing and media playback.                     | Flutter, Dart, Dio, flutter_inappwebview, file_picker, path_provider |
+
+
+
+
+### 🤝 Let's Connect
